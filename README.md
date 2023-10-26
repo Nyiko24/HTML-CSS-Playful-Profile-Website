@@ -8,7 +8,6 @@ Here's what to expect when you click the link
 1. 
 https://github.com/Nyiko24/HTML-CSS-Playful-Profile-Website/assets/114064061/bbd80f4d-587b-41ba-a2e7-de3e120b408b
 2.
-https://github.com/Nyiko24/HTML-CSS-Playful-Profile-Website/assets/114064061/bc269a34-17f5-4ae0-b2f4-8d845083e822
-
+![Web 2](https://github.com/Nyiko24/HTML-CSS-Playful-Profile-Website/assets/114064061/bc269a34-17f5-4ae0-b2f4-8d845083e822)
 
 
